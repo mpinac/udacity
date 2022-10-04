@@ -25,7 +25,7 @@ One notebook is available, in which all the work necessary to answer the above q
 
 ## Results<a name="results"></a>
 
-The main findings of the code can be found at the post available [here](https://medium.com/@josh_2774/how-do-you-become-a-developer-5ef1c1c68711).
+The main findings of the code can be found at the post available [here](https://medium.com/@miguel.pina_55772/seattle-airbnb-anyone-give-more-babc61aeb07a).
 
 ## Licensing, Authors, Acknowledgements<a name="licensing"></a>
 
